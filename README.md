@@ -9,10 +9,10 @@
        <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
    	<a>
-       <img alt="stars" src="https://img.shields.io/github/stars/LightChen233/OpenSLU" />
+       <img alt="stars" src="https://img.shields.io/github/stars/LightChen233/DPF" />
   	</a>
   	<a href="https://github.com/LightChen233/OpenSLU/network/members">
-       <img alt="FORK" src="https://img.shields.io/github/forks/LightChen233/OpenSLU?color=FF8000" />
+       <img alt="FORK" src="https://img.shields.io/github/forks/LightChen233/DPF?color=FF8000" />
   	</a>
     <br />
 </p>
